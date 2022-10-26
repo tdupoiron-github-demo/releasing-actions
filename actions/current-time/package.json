@@ -1,6 +1,6 @@
 {
   "name": "current-time",
-  "version": "1.0.0-alpha.1",
+  "version": "2.0.0",
   "description": "GitHub action to get the current time formatted",
   "main": "index.js",
   "scripts": {
